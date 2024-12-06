@@ -1,2 +1,2 @@
 # micrograd
- a scalar valued automatic gradient engine
+ A scalar valued automatic gradient engine that implements backpropogation, inspired by Andrej Karpathy.
